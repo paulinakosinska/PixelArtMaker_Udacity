@@ -1,18 +1,21 @@
 $(document).ready(function(){
-    alert();
+   
 });
 
 
-
+var color
+var height
+var width 
 
 $("#sizePicker").submit(function(event){
     event.preventDefault();
     // Select color input
-    var color = $("#colorPicker").val();
+    color = $("#colorPicker").val();
     
     // Select size input
-    var height = $("#inputHeight").val();
-    var width = $("#inputWidth").val();
+    height = $("#inputHeight").val();
+    width = $("#inputWidth").val();
+    alert(color);
 });
 
 
