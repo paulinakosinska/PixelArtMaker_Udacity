@@ -1,0 +1,11 @@
+{
+  "name": "pixelartmaker_udacity",
+  "version": "1.0.0",
+  "description": "## Table of Contents",
+  "main": "designs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulina Kosińska",
+  "license": "ISC"
+}
